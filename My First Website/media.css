@@ -1,0 +1,132 @@
+@media (max-width: 1064px){
+    .iphone15pro h1{
+        font-size: 47px;
+    }
+    .iphone15pro h3{
+        font-size: 22px;
+        padding-bottom: 18px;
+    }
+    #link1{
+        font-size: 19px;
+    }
+    .iphone15{
+        display: none;
+    }
+    .iphone15-res{
+        display: block;
+    }
+    .iphone15-res h1{
+        font-size: 47px;
+    }
+    .iphone15-res h3{
+        font-size: 22px;
+        padding-bottom: 18px;
+    }
+    .videosection{
+        height: 600px;
+    }
+    .overlay-text3{
+        top: 70%;
+    }
+    .grid-images .grid-products{
+        height: 490px;
+    }
+    #homepod{
+        display: none;
+    }
+    #homepod-res1{
+        display: block;
+    }
+    .overlay-text4{
+        width: 100%;
+    }
+    .overlay-text4 h3{
+        font-size: 19px;
+        padding-bottom: 18px;
+        
+    }
+    .overlay-text4 h1{
+        font-size: 26px;
+    }
+    #ultra2logo{
+        width: 120px;
+    }
+}
+@media (max-width: 975px){
+    .header{
+        display: none;
+    }
+    .res{
+        display: flex;
+    }
+    .sub-nav{
+        height: 65px;
+    }
+    .directory{
+        display: none;
+    }
+    .directory-res{
+        display: block;
+    }
+    .footer-legal{
+        display: none;
+    }
+    .footer-legal-res{
+        display: block;
+    }
+    .footer-nav hr{
+        display: none;
+    }
+}
+@media (max-width: 671px){
+    .sub-nav{
+        font-size: 12px;
+        height: auto;
+    }
+    .iphone15pro{
+        display: none;
+    }
+    .iphone15pro-res{
+        display: block;
+    }
+    .iphone15-res{
+        display: none;
+    }
+    .iphone15-res2{
+        display: block;
+    }
+    .videosection{
+        height: 500px;
+    }
+    .overlay-text3 h3{
+        font-size: 20px;
+        padding-bottom: 20px;
+        padding-top: 0px;
+        color: white;
+    }
+    .overlay-text3{
+        top: 73%;
+    }
+    .overlay-text3 img{
+        height: 45px;
+    }
+    .overlay-text3 h1{
+        font-size: 60px;
+    }
+    .grid-images{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: none;
+    }
+    .grid-products img{
+        margin: 0px 0px;
+    }
+    .moving-picture{
+        display: none;
+    }
+    .moving-picture-res{
+        display: block;
+    }
+
+
+}
